@@ -1,6 +1,6 @@
 # طريق الحياة (Tariq Al-Hayah)
 
-![App Icon](./app-icon.png)
+![App Icon](https://github.com/ahmadrashed1999/Arsh-Quran/blob/main/assets/playstore.png)
 
 ## Description
 
